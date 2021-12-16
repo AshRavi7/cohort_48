@@ -1,4 +1,4 @@
-## CALCULATOR OOPS Assignment
+## Calculator solution using oops inheritance.
 
 ### Contruct an advanced calculator-
 
