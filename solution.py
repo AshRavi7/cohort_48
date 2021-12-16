@@ -61,6 +61,7 @@ class advance_calc(simple_calc):
 
 if __name__=="__main__": # main method 
     enter_data=0
+    print('Hello Calculator')
     while enter_data not in ["1","2"]:
         print('''Please enter type of calculation you want to use
               Select 1> For Simple calculator
